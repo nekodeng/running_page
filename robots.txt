@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://nekodeng.gitee.io/sitemap.xml
+Host: https://nekodeng.gitee.io
