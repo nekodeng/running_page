@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: `/running_page`, // Change to `/running_page` when running on github pages
   siteMetadata: {
     title: 'Keep Running | itsNeko',
-    siteUrl: 'https://nekodeng.gitee.io/',
+    siteUrl: 'https://dyfa.top/',
     description: 'Personal site and blog',
   },
   plugins: [
